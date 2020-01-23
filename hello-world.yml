@@ -1,5 +1,5 @@
 ---
 - hosts: Demo-Centos
-  taks:
+  tasks:
   - name: echo
     command: echo "This is a test"
