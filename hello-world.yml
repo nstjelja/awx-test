@@ -1,0 +1,5 @@
+---
+- hosts: Demo-Centos
+  taks:
+  - name: echo
+    command: echo "This is a test"
